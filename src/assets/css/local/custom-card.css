@@ -101,3 +101,9 @@ custom-card[clickable] a:after {
   right: 0;
   top: 0;
 }
+ /* Added for header on home page */
+ .hero-heading {
+  font-size: var(--size-step-6);
+  line-height: 1.1;
+  font-weight: var(--font-bold);
+}

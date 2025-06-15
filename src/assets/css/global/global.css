@@ -1,3 +1,4 @@
+@import '../local/styleguide.css';
 @import 'tailwindcss/base' layer(tailwindBase);
 
 @import 'base/reset.css' layer(reset);

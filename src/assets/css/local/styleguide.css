@@ -70,3 +70,8 @@
   margin-block-end: var(--space-s);
   padding-block-end: var(--space-s);
 }
+.hero-heading {
+  font-size: clamp(3.2rem, 8vw, 5.2rem);
+  line-height: 1.2;
+  font-weight: var(--font-bold);
+}

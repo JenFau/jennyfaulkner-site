@@ -37,3 +37,9 @@
 .post .meta {
   font-size: var(--size-step-min-1);
 }
+ /* Try this */
+ .hero-heading {
+  font-size: var(--size-step-5);
+  line-height: 1.1;
+  font-weight: var(--font-bold);
+}

@@ -8,10 +8,11 @@
 }
 
 .section blockquote {
-  font-weight: var(--font-bold);
-  line-height: 1;
-  font-size: var(--size-step-4);
-  letter-spacing: var(--tracking-s);
+  font-weight: var(--font-regular);
+  line-height: 1.5;
+  font-size: var(--size-step-);
+  letter-spacing: normal;
+   font-style: italic;
 }
 
 .section :is(h1, h2, h3, blockquote) {

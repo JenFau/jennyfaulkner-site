@@ -48,21 +48,21 @@ h3 {
   font-size: var(--size-step-2);
 }
 
-blockquote {
+/* blockquote {
   padding: var(--space-m-l);
   border-inline-start: 0.5rem solid var(--color-primary);
-  font-size: var(--size-step-2);
+  font-size: var(--size-step-3);
 }
 
 blockquote > * + * {
   margin-block-start: var(--space-m-l);
-}
+} */
 
-blockquote :last-child {
+/* blockquote :last-child {
   font-family: var(--font-base);
   font-style: normal;
-  font-size: var(--size-step-1);
-}
+  font-size: var(--size-step-0);
+} */
 
 input,
 textarea {
@@ -147,3 +147,4 @@ a:not([class]):hover {
     display: none;
   }
 }
+

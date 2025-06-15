@@ -39,6 +39,8 @@
   text-wrap: pretty;
 }
 
+
+
 .prose .heading-anchor:where(:hover, :focus) {
   text-decoration: none;
 }
@@ -89,4 +91,12 @@
     /* Adds a hyphen where the word breaks, if supported (No Blink) */
     hyphens: auto;
   }
+}
+.prose blockquote {
+  font-size: var(--size-step-0);
+  font-weight: var(--font-medium);
+  line-height: 1.4;
+  border-inline-start: 0.5rem solid var(--color-primary);
+  padding: var(--space-m-l);
+  margin-block: var(--space-l);
 }
