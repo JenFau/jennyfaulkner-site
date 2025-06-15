@@ -4,6 +4,7 @@ description: I submitted this disseration as part of my undergraduate degree in 
 date: 2025-06-15
 tags:
   - philosophy
+  - philosophy/aesthetics
 layout: post
 ---
 This dissertation was submitted as part of my undergraduate degree in philosophy in 2025, for the University of London. 
