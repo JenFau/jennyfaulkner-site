@@ -95,9 +95,9 @@
 .prose blockquote {
   font-size: var(--size-step-0);
   font-weight: var(--font-medium);
-  font-style: italic;
+  font-style:italic;
   line-height: 1.4;
   border-inline-start: 0.5rem solid var(--color-primary);
-  padding: var(--space-s-m);
-  margin-block: var(--space-l);
+  padding: var(--space-s);
+  margin-block: var(--space-s);
 }
