@@ -6,6 +6,7 @@ tags:
   - philosophy
 layout: post
 ---
+This dissertation was submitted as part of my undergraduate degree in philosophy in 2025, for the University of London. 
 
 ## **Was Radford (1975) right to claim that emotions experienced in response to fictional events or characters are irrational?**
 
