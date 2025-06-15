@@ -18,10 +18,26 @@
 }
 
 .prose :is(h2, h3, h4) {
-  --flow-space: 1.5em;
+  --flow-space: 1em;
   overflow-wrap: anywhere;
   hyphens: auto;
 }
+
+/* Reduce space between blockquote and following paragraph or heading */
+.prose :is(blockquote + p, blockquote + h2, blockquote + h3) {
+  --flow-space: 0em;
+}
+
+/* Reduce space between paragraph and blockquote */
+.prose :is(p + blockquote) {
+  --flow-space: 0.5em;
+}
+
+/* Reduce space between lists and following */
+.prose :is(ul + *, ol + *) {
+  --flow-space: 0.5em;
+}
+
 
 @media screen(md) {
   .prose :is(h1, h2, h3) {
@@ -99,5 +115,5 @@
   line-height: 1.4;
   border-inline-start: 0.5rem solid var(--color-primary);
   padding: var(--space-s);
-  margin-block: var(--space-s);
+  margin-block: var(--space-s); 
 }
