@@ -1,5 +1,5 @@
 ---
-title: Disseration - Rationality of emotions towards fictional characters
+title: Dissertation - Rationality of emotions towards fictional characters
 description: I submitted this disseration as part of my undergraduate degree in Philosophy
 date: 2025-06-15
 tags:
