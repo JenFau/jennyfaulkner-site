@@ -9,11 +9,11 @@ Five years ago, when I first set up this site in Wordpress, I wrote:
 
 > I am passionate about the people side of projects and business change.
 
-This is my passion, and a strength, but for the past couple of years I've been more directed towards the quantitative side of business analysis. It's fascinating to see how that side - the data and numbers - is now becoming more and more part of the capabilities of AI, and I'm interested to see how things develop. 
+This is still my passion, and a strength, but for the past couple of years I've been more directed towards the quantitative side of business analysis. It's fascinating to see how that side - the data and numbers - is now becoming more and more part of the capabilities of AI, and I'm interested to see how things develop. 
 
 I also wrote in the original 'about' page: 
 
-> I'm in the progress of doing a philosophy degree. 
+> I'm two years into a part time philosophy degree. 
 
 I've now finished that degree and that - in theory, at least - gives me time to explore some more of my many, many interests. So I've restarted a [digital garden](https://notes.jennyfaulkner.com). As those thoughts become more developed, they will pages on this site. There *should* be more activity over there than here, but the notes will be rawer and shorter and more random. 
 
