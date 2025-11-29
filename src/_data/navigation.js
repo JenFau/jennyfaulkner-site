@@ -11,6 +11,10 @@ export default {
     {
       text: 'Digital Garden',
       url: 'https://notes.jennyfaulkner.com'
+    },
+    {
+      text: 'AI Notes',
+      url: 'https://ai-notes.jennyfaulkner.com'
     }
   ],
   bottom: []
