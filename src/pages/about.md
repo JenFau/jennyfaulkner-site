@@ -11,7 +11,7 @@ In 2020, when I first set up this site in Wordpress, I wrote:
 
 > I am passionate about the people side of projects and business change.
 
-This is still my passion, and a strength, but for the past couple of years my role has directed me towards the quantitative side of business analysis. It's now fascinating to see how that side - the data and numbers - is becoming more and more part of the capabilities of AI, and I'm interested to see how things develop. 
+This is still my passion, and a personal strength, but for the past couple of years my role has directed me towards the quantitative side of business analysis. It's now fascinating to see how that side - the data and numbers - is becoming more and more part of the capabilities of AI, and I'm interested to see how things develop. 
 
 I also wrote in the original 'about' page: 
 
