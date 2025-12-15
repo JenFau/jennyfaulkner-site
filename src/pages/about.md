@@ -17,7 +17,7 @@ I also wrote in the original 'about' page:
 
 > I'm two years into a part time analytical philosophy degree. 
 
-I've now graduated from that degree (with first class honours) and finishing it - in theory, at least - gave me time to explore some more of my many, many interests. So in June 2025 restarted a [digital garden](https://notes.jennyfaulkner.com) - an informal place to capture and develop thoughts. The plan was that as those thoughts become more developed, they would become pages on this site. However, a focus on learning about AI, and also on my day job, has meant I have not given the digital garden the time it needs or deserves. 
+I've now graduated from that degree (with first class honours) and finishing it - in theory, at least - gave me time to explore some more of my many, many interests. So in June 2025 I restarted a [digital garden](https://notes.jennyfaulkner.com) - an informal place to capture and develop thoughts. The plan was that as those thoughts become more developed, they would become pages on this site. However, a focus on learning about AI, and also on my day job, has meant I have not given the digital garden the time it needs or deserves. 
 
 On the subject of philosophy, I also wrote:
 
